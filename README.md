@@ -84,6 +84,7 @@ The report is built on a relational data model with the following core tables:
 - **Key Influencers visual** to surface the top drivers of sales
 - **Map visualization** for geographic sales distribution
 - **KPI tracking** for return status and shipping performance
+- **Beginner friendly** 
 
 ---
 
@@ -91,7 +92,7 @@ The report is built on a relational data model with the following core tables:
 
 - **Microsoft Power BI Desktop**
 - Data modeling with relationships across Orders, Products, Returns, and Customers tables
-- DAX measures for aggregations (Sum, Count, Average)
+- Worked without DAX 
 
 ---
 
